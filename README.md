@@ -1,6 +1,6 @@
 # FAMAF - SO
 
-Laboratorio resuelto (PARTE 1) de la materia **"Sistemas Operativos"** de 2do año (2do cuatrimestre) FAMAF - UNC
+Laboratorios resueltos de la materia **"Sistemas Operativos"** de 2do año (2do cuatrimestre) FAMAF - UNC
 
 ### Tecnologías utilizadas
 
