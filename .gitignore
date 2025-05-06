@@ -1,0 +1,29 @@
+# Archivos de compilación
+*.o
+*.out
+*.exe
+
+# Ejecutables generados
+a.out
+main
+
+# Archivos de depuración
+*.dSYM/
+*.log
+
+# Archivos de respaldo del editor
+*~
+*.swp
+*.bak
+
+# Archivos de Make
+Makefile~
+*.makefile
+
+# Directorios de build
+/build/
+/bin/
+/obj/
+
+# Archivos ocultos de macOS
+.DS_Store

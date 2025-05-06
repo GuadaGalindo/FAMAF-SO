@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "glib.h": "c",
+        "stdlib.h": "c",
+        "builtin.h": "c",
+        "stat.h": "c",
+        "assert.h": "c",
+        "syscall_mock.h": "c",
+        "command.h": "c"
+    }
+}
