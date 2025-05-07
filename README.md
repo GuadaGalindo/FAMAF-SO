@@ -6,10 +6,9 @@ Laboratorios resueltos de la materia **"Sistemas Operativos"** de 2do año (2do 
 
 - C
 
-### Autora
+### Autores
 
-**Guadalupe Galindo**  
-Estudiante de Ciencias de la Computación FAMAF - UNC
-
-- [LinkedIn](https://linkedin.com/in/guadagalindo)
-- [GitHub](https://github.com/GuadaGalindo)
+- [Guadalupe Galindo](https://github.com/GuadaGalindo)
+- [Felipe Jimenez](https://github.com/felijimeneez)
+- [Fabrizio Longhi](https://github.com/Fabrizio-Longhi)
+- [Nicolás Fernandez](https://github.com/NicolasFernandezMontenegro)
